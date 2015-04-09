@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "docset.js",
+  "sourceRoot": "",
+  "sources": [
+    "docset.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA;AAAA,MAAA,MAAA;;AAAA,EAAM;AACS,IAAA,gBAAC,IAAD,GAAA;AAAS,MAAR,IAAC,CAAA,OAAD,IAAQ,CAAT;IAAA,CAAb;;kBAAA;;MADF,CAAA;AAAA"
+}
